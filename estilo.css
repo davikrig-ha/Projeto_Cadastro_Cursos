@@ -1,0 +1,8 @@
+form, table {
+    width: 600px !important;
+    margin: 30px auto;
+}
+
+input, select{
+    margin-bottom: 10px;
+}
